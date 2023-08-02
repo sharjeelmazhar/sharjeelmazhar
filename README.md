@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sharjeelmazhar@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zTLxKq3DSO7jJniVdF4jY8VP2DELwFFn/view?usp=sharing](https://drive.google.com/file/d/1zTLxKq3DSO7jJniVdF4jY8VP2DELwFFn/view?usp=sharing)
+- 📄 Know about my experiences [https://azure-harriet-87.tiiny.site]()
 
 - ⚡ Fun fact **I think I am... Nodody, Yet!!!**
 
