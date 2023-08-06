@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/sharjeelmazharr" target="blank"><img src="https://img.shields.io/twitter/follow/sharjeelmazharr?logo=twitter&style=for-the-badge" alt="sharjeelmazharr" /></a> </p>
 
-- 🔭 I’m currently working on [My Conatact Hub](https://github.com/sharjeelmazhar/My-Contact-Hub)
+- 🔭 I’m currently working on [Flutter Widgets for Beginners](https://github.com/sharjeelmazhar/flutter-widgets-for-beginners)
 
 - 🌱 I’m currently learning **Flutter Development**
 
