@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sharjeelmazhar@protonmail.com**
 
-- 📄 Know about my experiences [https://azure-harriet-87.tiiny.site](https://rose-nicol-37.tiiny.site)
+- 📄 Know about my experiences [Resume](https://rose-nicol-37.tiiny.site)
 
 - ⚡ Fun fact **I think I am... Nodody, Yet!!!**
 
