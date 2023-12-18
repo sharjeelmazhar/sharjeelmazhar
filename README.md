@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Transformers, Text Generation ,GenAI**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, GenAI, Text Generation, Trasformers**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, GenAI, Text Generation, Transformers**
 
 - 📫 How to reach me **sharjeelmazharrajput@gmail.com**
 
