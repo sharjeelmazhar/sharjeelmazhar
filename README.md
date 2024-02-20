@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, GenAI, Text Generation, Transformers**
 
-- 📫 How to reach me **sharjeelmazharrajput@gmail.com**
+- 📫 How to reach me **sharjeelmazhar@gmail.com**
 
 - ⚡ Fun fact **I think I am... Nobody, Yet!!! 🫠**
 
