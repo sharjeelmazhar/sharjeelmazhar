@@ -1,8 +1,35 @@
 <h1 align="center">Hi 👋, I'm Sharjeel M. Rajput</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">AI Engineer · Computer Vision & Large Language Models</h3>
+
+<p align="center">
+I build AI systems end to end: from the maths and the model to a service that keeps running on a real GPU.<br>
+I like knowing <i>why</i> a model works, not only how to call it.
+</p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sharjeelmazhar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></p>
+
+### 🔭 What I'm working on
+- **Real-time computer vision on live video:** IP camera (RTSP) → YOLOv8 detection → ByteTrack tracking → SCRFD + ArcFace face recognition → PostgreSQL → live dashboard, on a single 5 GB GPU ([Live People Monitor](#featured-projects))
+- **Deploying models, not just training them:** Linux services under systemd, GPU inference, reconnect logic, monitoring and clean handover
+- **Video understanding:** a custom CNN + LSTM trained from scratch reaches 96.4% on unseen videos; I helped build the 15 GB human-activity video dataset behind it
+
+### 🌱 What I'm learning
+- **Transformers from first principles:** tokenization, embeddings, self-attention, training loops and evaluation, implemented by hand in PyTorch
+- **The mathematics underneath:** linear algebra, calculus, probability, statistics and optimisation, so I can reason about models instead of treating them as black boxes
+- Training small language models from scratch, then fine-tuning (LoRA/QLoRA) and RAG on open models
+
+### 🚀 My goal
+**To become an LLM researcher.** I want to work on how language models learn: architectures, training dynamics, scaling and honest evaluation.
+Computer vision is my other love, and I enjoy shipping vision systems that work outside the notebook.
+
+### 💬 Ask me about
+Computer Vision · Object Detection & Tracking · Face Recognition · Video Understanding · PyTorch · Transformers · LLMs · Linux
+
+### 📫 Reach me
+**sharjeelmazhar@gmail.com**
 
 <!-- projects:start -->
-<h3 align="left">Featured projects</h3>
+<h3 align="left" id="featured-projects">🧩 Featured projects</h3>
 <table>
 <tr><td width="50%" valign="top" align="center"><img src="assets/projects/01-people-monitor.jpg" alt="Live People Monitor" width="400"><br><b>Live People Monitor</b><br><sub>Real-time person detection, tracking and face recognition on a live IP camera (YOLOv8, ByteTrack, SCRFD, ArcFace) <i>(private repo, demo on request)</i></sub></td><td width="50%" valign="top" align="center"><a href="https://github.com/rafay99-epic/human-activity-recognition-cnn-lstm"><img src="assets/projects/03-har.jpg" alt="Human Activity Recognition" width="400"></a><br><a href="https://github.com/rafay99-epic/human-activity-recognition-cnn-lstm"><b>Human Activity Recognition</b></a><br><sub>Custom CNN + LSTM trained from scratch in PyTorch: 96.4% accuracy on unseen test videos <i>(final-year group project)</i></sub></td></tr>
 <tr><td width="50%" valign="top" align="center"><a href="https://github.com/sharjeelmazhar/Curfew"><img src="assets/projects/04-curfew.jpg" alt="Curfew" width="400"></a><br><a href="https://github.com/sharjeelmazhar/Curfew"><b>Curfew</b></a><br><sub>Android app + Linux service to control the kids' Ubuntu laptops, at home or anywhere via Tailscale</sub></td><td width="50%" valign="top" align="center"><a href="https://github.com/sharjeelmazhar/phone-mic"><img src="assets/projects/05-phone-mic.jpg" alt="Phone Mic" width="400"></a><br><a href="https://github.com/sharjeelmazhar/phone-mic"><b>Phone Mic</b></a><br><sub>Use an Android phone as a wireless microphone on any Linux PC (Kotlin, PipeWire, encrypted audio)</sub></td></tr>
@@ -11,21 +38,6 @@
 <tr><td width="50%" valign="top" align="center"><a href="https://github.com/sharjeelmazhar/nautilus-open-in-code"><img src="assets/projects/10-open-in-code.jpg" alt="Open in Code" width="400"></a><br><a href="https://github.com/sharjeelmazhar/nautilus-open-in-code"><b>Open in Code</b></a><br><sub>GNOME Files extension: right-click to open folders in VS Code</sub></td><td width="50%" valign="top" align="center"><img src="assets/projects/09-sakura-glass.jpg" alt="Sakura Glass" width="400"><br><b>Sakura Glass</b><br><sub>Pink frosted-glass VS Code theme, dark and light, tuned for Python and Jupyter</sub></td></tr>
 </table>
 <!-- projects:end -->
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeelmazhar&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeelmazhar" /> </p>
-
-- 🌱 I’m currently learning **Transformer (LLMs)**
-
-- 👯 I’m looking to collaborate on **Transformers, Text Generation, GenAI**
-
-- 🤝 I’m looking for help with **Transformers, Text Generation ,GenAI**
-
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, GenAI, Text Generation, Transformers**
-
-- 📫 How to reach me **sharjeelmazhar@gmail.com**
-
-- ⚡ Fun fact **I think I am... Nobody, Yet!!! 🫠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
